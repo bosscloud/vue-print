@@ -329,4 +329,9 @@ table tr th:nth-child(2) {
 .lu li:last-of-type {
   margin-right: 0;
 }
+
+@page{
+  size: auto A4 landscape;
+  margin: 3mm;
+}
 </style>
